@@ -44,4 +44,4 @@ with gr.Blocks(title="CV-Metric Vision Agent") as demo:
 
 if __name__ == "__main__":
     # 本地局域网广播启动并拉起内网穿透机制
-    demo.launch(server_name="0.0.0.0", share=True)
+    demo.launch()
