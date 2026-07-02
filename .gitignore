@@ -1,0 +1,11 @@
+# 密钥文件
+.env
+# 本地向量库文件夹
+chroma_db/
+# Python缓存
+__pycache__/
+*.pyc
+# 日志、临时文件
+*.log
+# IDE缓存
+.idea/
